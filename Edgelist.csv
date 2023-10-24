@@ -1,30 +1,30 @@
-from;to;weight
-V;Johnny Silverhand;5
-V;Viktor Vektor;2
-V;Misty;2
-V;Jacky;3
-V;Panam Palmer;2
-V;Judy;3
-V;Rogue;2
-Johnny Silverhand;Rogue;5
-Viktor Vektor;Misty;3
-Misty;Jacky;5
-Evelyn Parker;Judy;3
-Evelyn Parker;Yorinobu Arasaka;2
-Evelyn Parker;V;1
-Panam Palmer;Rogue;1
-Yorinobu Arasaka;Soburo Arasaka;1
-Yorinobu Arasaka;Hanako Arasaka;5
-Soburo Arasaka;Hanako Arasaka;3
-Soburo Arasaka;Takemura;5
-Takemura;V;3
-Yorinobu Arasaka;Adam Smasher;3
-Adam Smasher;Johnny Silverhand;1
-Adam Smasher;David Martinez;1
-David Martinez;Gloria Martinez;4
-David Martinez;Lucy;5
-David Martinez;Rebecca;3
-David Martinez;Falco;2
-Falco;V;1
-Lucy;Rebecca;3
-Lucy;Falco;3
+from,to,weight
+V,Johnny Silverhand,5
+V,Viktor Vektor,2
+V,Misty,2
+V,Jacky,3
+V,Panam Palmer,2
+V,Judy,3
+V,Rogue,2
+Johnny Silverhand,Rogue,5
+Viktor Vektor,Misty,3
+Misty,Jacky,5
+Evelyn Parker,Judy,3
+Evelyn Parker,Yorinobu Arasaka,2
+Evelyn Parker,V,1
+Panam Palmer,Rogue,1
+Yorinobu Arasaka,Soburo Arasaka,1
+Yorinobu Arasaka,Hanako Arasaka,5
+Soburo Arasaka,Hanako Arasaka,3
+Soburo Arasaka,Takemura,5
+Takemura,V,3
+Yorinobu Arasaka,Adam Smasher,3
+Adam Smasher,Johnny Silverhand,1
+Adam Smasher,David Martinez,1
+David Martinez,Gloria Martinez,4
+David Martinez,Lucy,5
+David Martinez,Rebecca,3
+David Martinez,Falco,2
+Falco,V,1
+Lucy,Rebecca,3
+Lucy,Falco,3

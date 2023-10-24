@@ -1,20 +1,20 @@
-﻿id;name;sex
-V;V;2
-Johnny Silverhand;Johnny Silverhand;1
-Viktor Vektor;Viktor Vektor;1
-Misty;Misty;2
-Jacky;Jacky;1
-Panam Palmer;Panam Palmer;2
-Judy;Judy Alvarez;2
-Rogue;Rogue Amanderies;2
-Yorinobu Arasaka;Yorinobu Arasaka;1
-Hanako Arasaka;Hanako Arasaka;2
-Soburo Arasaka;Soburo Arasaka;1
-Adam Smasher;Adam Smasher;1
-Evelyn Parker;Evelyn Parker;2
-David Martinez;David Martinez;1
-Gloria Martinez;Gloria Martinez;2
-Lucy;Lucy;2
-Rebecca;Rebecca;2
-Falco;Falco;1
-Takemura;Takemura;1
+id,name,sex
+V,V,2
+Johnny Silverhand,Johnny Silverhand,1
+Viktor Vektor,Viktor Vektor,1
+Misty,Misty,2
+Jacky,Jacky,1
+Panam Palmer,Panam Palmer,2
+Judy,Judy Alvarez,2
+Rogue,Rogue Amanderies,2
+Yorinobu Arasaka,Yorinobu Arasaka,1
+Hanako Arasaka,Hanako Arasaka,2
+Soburo Arasaka,Soburo Arasaka,1
+Adam Smasher,Adam Smasher,1
+Evelyn Parker,Evelyn Parker,2
+David Martinez,David Martinez,1
+Gloria Martinez,Gloria Martinez,2
+Lucy,Lucy,2
+Rebecca,Rebecca,2
+Falco,Falco,1
+Takemura,Takemura,1
