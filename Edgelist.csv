@@ -1,0 +1,35 @@
+﻿from;to
+V;Johnny Silverhand
+V;Viktor Vektor
+V;Misty
+V;Jacky
+V;Panam Palmer
+V;Judy
+V;Rogue
+Johnny Silverhand;Rogue
+Johnny Silverhand;V
+Viktor Vektor;V
+Viktor Vektor;Misty
+Misty;Jacky
+Evelyn Parker;Judy
+Evelyn Parker;Yorinobu Arasaka
+Evelyn Parker;V
+Panam Palmer;Rogue
+Panam Palmer;V
+Judy;V
+Yorinobu Arasaka;Soburo Arasaka
+Yorinobu Arasaka;Hanako Arasaka
+Yorinobu Arasaka;Evelyn Parker
+Soburo Arasaka;Hanako Arasaka
+Soburo Arasaka;Takemura
+Takemura;V
+Yorinobu Arasaka;Adam Smasher
+Adam Smasher;Johnny Silverhand
+Adam Smasher;David Martinez
+David Martinez;Gloria Martinez
+David Martinez;Lucy
+David Martinez;Rebecca
+David Martinez;Falco
+Falco;V
+Lucy;Rebecca
+Lucy;Falco
